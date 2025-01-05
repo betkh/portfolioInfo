@@ -1,4 +1,4 @@
-# Info about Portfolio Project in React
+# Portfolio Project
 
 The actual repo is private and this repo is created to share high level info.
 
