@@ -10,6 +10,20 @@ The personal portfolio project is created using React [Vite](https://vitejs.dev/
 
 - The domain is registered with GoDaddy.
 
+## Screenshots
+
+#### Dark Mode
+
+![DarkMode](screenshots/dark.png)
+
+#### Light Mode
+
+![LightMode](screenshots/light.png)
+
+#### Projects Section
+
+![ProjectsSection](screenshots/proj.png)
+
 ## DEMO
 
 [![Watch the video](screenshots/demo.png)](https://youtu.be/a3HQ_dvjFVI)
@@ -30,20 +44,6 @@ npm run dev
   ```
 
 - Finally, push your changes to your Git repository.
-
-## Screenshots
-
-#### Dark Mode
-
-![DarkMode](screenshots/dark.png)
-
-#### Light Mode
-
-![LightMode](screenshots/light.png)
-
-#### Projects Section
-
-![ProjectsSection](screenshots/proj.png)
 
 ## Learn More
 
