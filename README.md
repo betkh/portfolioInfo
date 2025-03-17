@@ -1,5 +1,7 @@
 # React Portfolio Project
 
+Website: [https://www.data-wiz-bek.com/](https://www.data-wiz-bek.com/)
+
 The actual repo is private and this repo is created to share high level info.
 
 The personal portfolio project is created using React [Vite](https://vitejs.dev/), a fast frontend build tool.
